@@ -2,11 +2,16 @@ import React from 'react'
 import './SplashScreen.css'
 import clouds from '../assets/clouds.svg'
 import cupid from '../assets/cupid.svg'
+import { Link } from 'react-router-dom'
+import swipeArrow from '../assets/Swipe Arrow.svg'
+
+
 
 
 const SplashScreen = () => {
-    return (
-        <main>
+    return (<>
+
+        <div className='main'>
             <div>
                 <img className='clouds' src={clouds} alt="clouds" />
             </div>
@@ -19,7 +24,14 @@ const SplashScreen = () => {
             <div>
                 <img className='clouds' src={clouds} alt="clouds" />
             </div>
-        </main>
+
+        </div>
+        <div className='swipe'>
+            <Link to='/l2'>
+                <img className='arrow' src={swipeArrow} alt="" />
+            </Link>
+        </div>
+    </>
     )
 }
 

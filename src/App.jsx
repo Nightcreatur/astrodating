@@ -1,13 +1,14 @@
 
 import './App.css'
-import SplashScreen from './components/SplashScreen'
+
+import Webroutes from './routes/Route'
 
 function App() {
 
 
   return (
     <>
-      <SplashScreen />
+      <Webroutes />
     </>
   )
 }
