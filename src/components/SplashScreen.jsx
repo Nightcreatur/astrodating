@@ -3,7 +3,7 @@ import './SplashScreen.css'
 import clouds from '../assets/clouds.svg'
 import cupid from '../assets/cupid.svg'
 import { Link } from 'react-router-dom'
-import swipeArrow from '../assets/Swipe Arrow.svg'
+import swipeArrow from '../assets/SwipeArrow.svg'
 
 
 
