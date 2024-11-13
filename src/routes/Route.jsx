@@ -6,7 +6,7 @@ import LoginPage from "../components/LoginPage/Login1";
 import Profile from "../components/Profile/Profile";
 
 
-import BottomNavigationBar from "../components/BottomNavigation/BottomNavigationBar";
+
 import ProfileSetup from "../components/PofileSetup/ProfileSetup";
 
 import ZodiacWheel from "../components/Zodiac/ZodiacWheel";
