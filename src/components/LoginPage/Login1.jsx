@@ -25,10 +25,10 @@ const Login = () => {
           <input type="text" placeholder="Justin Walker" />
 
           <label>Time of Birth</label>
-          <div className="time-input">
-            <input type="text" placeholder="10:50 am" />
 
-          </div>
+          <input type="text" placeholder="10:50 am" />
+
+
 
           <label>Gender</label>
           <div className="gender-options">

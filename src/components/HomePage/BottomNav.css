@@ -4,7 +4,7 @@
   display: flex;
   justify-content: space-around;
   padding: 10px 0;
-  background-color: blac; /* Adjust as needed */
+  background-color: black; /* Adjust as needed */
   position: fixed;
   bottom: 0;
   width: 100%;
@@ -30,5 +30,5 @@
   background-color: black; /* Change this to the desired color */
   transform: translateY(-20px);
 
-  box-shadow: 0px 0px 0px 10px white;
+  box-shadow: 0px 0px 5px 10px rgb(255, 255, 255);
 }

@@ -72,7 +72,7 @@ const ZodiacWheel = () => {
                 <p>
                     Let&#39;s set up your profile
                 </p>
-                <Link to='/l3' ><button className='btn'><img src={rarrow} alt="" /></button></Link>
+                <Link to='/l' ><button className='btn'><img src={rarrow} alt="" /></button></Link>
             </div>
         </>
     );

@@ -1,6 +1,5 @@
 .chatLayout {
   padding: 20px;
-  font-family: Arial, sans-serif;
 }
 
 h2 {
@@ -103,4 +102,10 @@ h2 {
 .chatMessage {
   color: #888;
   font-size: 14px;
+}
+
+@media (min-width: 1024px) {
+  .matches {
+    justify-content: space-around;
+  }
 }

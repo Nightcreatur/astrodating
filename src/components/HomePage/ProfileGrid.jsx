@@ -17,7 +17,7 @@ const profiles = [
 
 const ProfileGrid = () => {
     return (
-        <>
+        <div className='content'>
             <div className='setting'>
                 <img src={setting} alt="" />
             </div>
@@ -27,7 +27,7 @@ const ProfileGrid = () => {
                     <ProfileCard key={index} profile={profile} />
                 ))}
             </div>
-        </>
+        </div>
     );
 };
 
