@@ -28,7 +28,7 @@ const SplashScreen = () => {
         </div>
         <div className='swipe'>
             <Link to='/l2'>
-                <img className='arrow' src={swipeArrow} alt="" />
+                <img className='arrrow' src={swipeArrow} alt="" />
             </Link>
         </div>
     </>
