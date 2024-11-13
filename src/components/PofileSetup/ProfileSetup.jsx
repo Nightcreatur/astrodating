@@ -1,8 +1,8 @@
 import React from 'react'
 import { useState } from 'react';
 import './Profile.css'
-import arrow from '../../assets/Right arrow.svg'
-import leftArrow from '../../assets/Left Arrow.svg'
+import arrow from '../../assets/Rightarrow.svg'
+import leftArrow from '../../assets/LeftArrow.svg'
 import { Link } from 'react-router-dom';
 
 const ProfileSetup = () => {
