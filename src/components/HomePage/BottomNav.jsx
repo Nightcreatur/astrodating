@@ -2,10 +2,10 @@
 import React, { useState } from 'react';
 
 import { Link } from 'react-router-dom';
-import Home from '../../assets/Home icon.svg'
-import Heart from '../../assets/Heart Icon.svg'
-import Message from '../../assets/Msg Icon.svg'
-import Profile from '../../assets/Profile Icon.svg'
+import Home from '../../assets/Homeicon.svg'
+import Heart from '../../assets/HeartIcon.svg'
+import Message from '../../assets/MsgIcon.svg'
+import Profile from '../../assets/ProfileIcon.svg'
 import './BottomNav.css'
 
 

@@ -2,8 +2,8 @@ import React from 'react';
 
 import { Link } from 'react-router-dom';
 import './Login.css';
-import arrow from '../../assets/Left Arrow.svg'
-import rarrow from '../../assets/Right Arrow.svg'
+import arrow from '../../assets/Leftarrow.svg'
+import rarrow from '../../assets/Rightarrow.svg'
 
 const Login = () => {
   return (

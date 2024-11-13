@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 
 import './Zodiac.css';
 import { Link } from 'react-router-dom';
-import rarrow from '../../assets/Right arrow.svg'
-import larrow from '../../assets/Left arrow.svg'
+import rarrow from '../../assets/Rightarrow.svg'
+import larrow from '../../assets/Leftarrow.svg'
 import zodiac from '../../assets/zodiac.svg'
 
 
