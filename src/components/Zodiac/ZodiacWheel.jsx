@@ -62,7 +62,7 @@ const ZodiacWheel = () => {
 
 
                 </div>
-                <img src={zodiac} alt="" />
+                <img className='img' src={zodiac} alt="" />
 
 
 
