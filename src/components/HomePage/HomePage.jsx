@@ -1,14 +1,14 @@
-// src/App.js
 import React from 'react';
-
-
-import ProfileGrid from './ProfileGrid';
 import BottomNav from './BottomNav';
+import { Outlet } from 'react-router-dom';
+
 
 const HomePage = () => (
     <div>
-        <ProfileGrid />
+        <Outlet />
         <BottomNav />
+
+
     </div>
 );
 
